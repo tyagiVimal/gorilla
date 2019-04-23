@@ -1,5 +1,5 @@
 
-package com.company.automation.utility;
+package com.gorilla.automation.utility;
 
 import java.awt.Toolkit;
 import java.awt.datatransfer.Clipboard;

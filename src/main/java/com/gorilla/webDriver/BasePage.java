@@ -15,8 +15,4 @@ public class BasePage extends DriverFactory {
 		driver.quit();
 	}
 
-	public static void main(String args[]) {
-		BasePage b = new BasePage();
-		b.openURL();
-	}
 }

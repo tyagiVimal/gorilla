@@ -1,5 +1,5 @@
 
-package com.company.automation.utility;
+package com.gorilla.automation.utility;
 
 import java.util.ArrayList;
 import java.util.HashMap;

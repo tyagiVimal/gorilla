@@ -11,7 +11,6 @@ public class BaseTest extends BasePage {
 	HomePage home = new HomePage();
 
 	@BeforeMethod
-
 	public void setUpURL() {
 		openURL();
 	}
